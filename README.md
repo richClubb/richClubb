@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @richClubb
+- 👀 I’m interested in ... EVERYTHING!!!!
+- 🌱 I’m currently learning ... KiCAD and electronics design
+- 💞️ I’m looking to collaborate on ... hardware / embedded software
+- 📫 How to reach me ... 
